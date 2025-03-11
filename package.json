@@ -13,5 +13,6 @@
 	},
 	"author": "Jacphi Jerman NOUKPO",
 	"description": "Manage packages with NPM",
-	"keywords": ["freecodecamp", "npm", "packages", "management"]
+	"keywords": ["freecodecamp", "npm", "packages", "management"],
+	"license" : "MIT"
 }
