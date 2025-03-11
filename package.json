@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Jacphi Jerman NOUKPO",
-	"description": "Manage packages with NPM"
+	"description": "Manage packages with NPM",
+	"keywords": ["freecodecamp", "npm", "packages", "management"]
 }
